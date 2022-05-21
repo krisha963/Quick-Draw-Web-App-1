@@ -1,0 +1,30 @@
+body{
+    background-color: springgreen;
+}
+p{
+    font-size: 25px;
+    font-weight: bolder;
+    padding-top: 15px;
+}
+#time{
+    float: right;
+    margin-right: 20px;
+}
+#score{
+    margin-left: 20px;
+    float: left;
+}
+#sketchDrawn{
+    color: red;
+    font-size: 30px;
+}
+span{
+    font-weight: bolder;
+    font-size: 22px;
+}
+#show_sketch{
+    float: right;
+}
+h1{
+    background-color: white;
+}
